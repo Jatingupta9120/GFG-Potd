@@ -1,1 +1,1 @@
-# GFG-Potd
+#GFG-potd-75-Hard-Challenge
